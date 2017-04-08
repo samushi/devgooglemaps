@@ -1,0 +1,22 @@
+{
+  "name": "devgooglemaps",
+  "main": "DevGoogleMaps.js",
+  "authors": [
+    "Sami Maxhuni <samimaxhuni510@gmail.com>"
+  ],
+  "description": "Map integrated with gmap3",
+  "license": "MIT",
+  "homepage": "http://devsolution.info",
+  "private": true,
+  "dependencies"  : {
+    "gmap3"  : ">=5.1.1"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "plugins",
+    "test",
+    "tests"
+  ]
+}
